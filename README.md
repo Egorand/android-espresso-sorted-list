@@ -1,5 +1,6 @@
 # android-espresso-sorted-list
-An example of how to write acceptance tests using Espresso
+An example of how to write acceptance tests using Espresso. Check 
+[Testing a sorted list with Espresso](http://blog.egorand.me/testing-a-sorted-list-with-espresso/).
 
 License
 -------
