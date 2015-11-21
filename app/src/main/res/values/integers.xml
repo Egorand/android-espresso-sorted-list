@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="team_logos">
+        <item>@drawable/manchester_city</item>
+        <item>@drawable/arsenal</item>
+        <item>@drawable/leicester_city</item>
+        <item>@drawable/manchester_united</item>
+        <item>@drawable/tottenham_hotspur</item>
+        <item>@drawable/west_ham_united</item>
+        <item>@drawable/southampton</item>
+        <item>@drawable/crystal_palace</item>
+        <item>@drawable/everton</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/watford</item>
+        <item>@drawable/stoke_city</item>
+        <item>@drawable/west_bromwich_albion</item>
+        <item>@drawable/swansea_city</item>
+        <item>@drawable/norwich_city</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/newcastle_united</item>
+        <item>@drawable/afc_bournemouth</item>
+        <item>@drawable/sunderland</item>
+        <item>@drawable/aston_villa</item>
+    </integer-array>
+
+</resources>

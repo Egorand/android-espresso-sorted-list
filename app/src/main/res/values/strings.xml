@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Teams</string>
+    <string name="cont_desc_team_logo">Team logo</string>
+
+    <string-array name="team_names">
+        <item>Manchester City</item>
+        <item>Arsenal</item>
+        <item>Leicester City</item>
+        <item>Manchester United</item>
+        <item>Tottenham Hotspur</item>
+        <item>West Ham United</item>
+        <item>Southampton</item>
+        <item>Crystal Palace</item>
+        <item>Everton</item>
+        <item>Liverpool</item>
+        <item>Watford</item>
+        <item>Stoke City</item>
+        <item>West Bromwich Albion</item>
+        <item>Swansea City</item>
+        <item>Norwich City</item>
+        <item>Chelsea</item>
+        <item>Newcastle United</item>
+        <item>AFC Bournemouth</item>
+        <item>Sunderland</item>
+        <item>Aston Villa</item>
+    </string-array>
+
+</resources>

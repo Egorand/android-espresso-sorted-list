@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/listPreferredItemHeight">
+
+    <ImageView
+        android:id="@+id/team_logo"
+        android:layout_width="@dimen/team_logo_size"
+        android:layout_height="@dimen/team_logo_size"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/team_logo_margin_left"
+        android:layout_marginStart="@dimen/team_logo_margin_left"
+        android:contentDescription="@string/cont_desc_team_logo"
+        tools:src="@drawable/arsenal"/>
+
+    <TextView
+        android:id="@+id/team_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="@dimen/team_name_margin_right"
+        android:layout_marginLeft="@dimen/team_name_margin_left"
+        android:layout_marginRight="@dimen/team_name_margin_right"
+        android:layout_marginStart="@dimen/team_name_margin_left"
+        android:singleLine="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        tools:text="Aston Villa"/>
+
+</FrameLayout>
